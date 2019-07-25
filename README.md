@@ -1,2 +1,3 @@
 # NumberRegonise
-BI-LSTM,CNN
+BI-LSTM,CNN  
+blstm+attention
